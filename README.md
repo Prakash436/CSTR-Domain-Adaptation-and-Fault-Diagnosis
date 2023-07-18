@@ -4,7 +4,7 @@
 
 ### This datasets contains a set of simulations of a known benchmark in the fault diagnosis for chemical processes community, i.e., the Continuous Stirred Tank Reactor. This system carries an exothermic reaction A -> B, and a feedback loop for controlling the reactor's temperature.
 
-#### There are 7 measured variables,
+### There are 7 measured variables,
 
 #### ->Concentration of A in the inlet flow,
 #### ->Temperature of the inlet flow,
